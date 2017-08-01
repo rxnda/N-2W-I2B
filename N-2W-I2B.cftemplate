@@ -8,10 +8,7 @@
 # - "materials embodying confidential information"
 # - "with respect to"
 
-
-
 This agreement sets out terms that protect <Confidential Information> the parties may exchange.  ""Disclosing Party"" describes each party with respect to <Confidential Information> it discloses to the other party.  ""Receiving Party"" describes each party with respect to <Confidential Information> it receives from the other party.
-
 
     \RxNDA Form\  This is a development draft of RxNDA Form N-2W-I2B.  See https://rxnda.com for license terms and other information.
 
@@ -21,13 +18,9 @@ This agreement sets out terms that protect <Confidential Information> the partie
 
         \\  Subject to {Exclusions}, ""Confidential Information"" means the following kinds of information:
 
-            
-
-            
             \\  information disclosed in writing during the term of this agreement that is marked to indicate that it is confidential, such as with words like "confidential", "proprietary", "privileged", and similar;
 
             \\  information otherwise disclosed during the term of this agreement that <Disclosing Party> identifies in writing as confidential within one calendar week of disclosure;
-            
 
             \\  the fact that the parties are pursuing the <Purpose>;
 
@@ -51,7 +44,6 @@ This agreement sets out terms that protect <Confidential Information> the partie
 
             \\  Except as described in {Permitted Disclosure}, <Receiving Party> shall not disclose <Confidential Information> to anyone.
 
-            
             \Permitted Disclosure\  <Receiving Party> may disclose <Confidential Information> to the following personnel:
 
                 \\  employees, independent contractors, officers, directors, and agents of <Receiving Party> (""Personnel"") who:
@@ -61,9 +53,6 @@ This agreement sets out terms that protect <Confidential Information> the partie
                     \\  have entered written confidentiality agreements with <Receiving Party> that impose confidentiality obligations, affording as much or more protection as those of this agreement, that apply to the <Confidential Information>; and
 
                 \\ legal and financial advisers providing services to <Receiving Party> whose conduct is regulated by laws or professional rules that impose confidentiality obligations (""Advisers"").
-            
-
-            
 
         \Limited Use\  <Receiving Party> shall use <Confidential Information> only to advance the <Purpose>.
 
@@ -95,13 +84,11 @@ This agreement sets out terms that protect <Confidential Information> the partie
 
         \Comply with Export Controls\  Both parties shall comply with export and reexport laws with respect to <Confidential Information>.
 
-        
         \Compliance and Oversight\
 
             \\  <Receiving Party> shall ensure that its <Personnel> and <Advisers> abide by the confidentiality obligations of <Receiving Party> under this agreement.  Breach of <Receiving Party> obligations by <Receiving Party> <Personnel> or <Receiving Party> <Advisers> will be deemed breach of this agreement by <Receiving Party> itself.
 
             \\  <Receiving Party> shall provide <Disclosing Party> copies of confidentiality agreements with <Personnel> who receive <Confidential Information> on <Disclosing Party> request.
-        
 
     \Clarifications\
 
